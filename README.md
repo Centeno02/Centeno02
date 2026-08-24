@@ -72,7 +72,9 @@
 
 ### Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in//" target="_blank">
+  <a href="www.linkedin.com/in/kury-javith-centeno-muciño-4970411a3
+
+" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
   </a>
   <a href="https://www.instagram.com/kuryjavith/" target="_blank">
